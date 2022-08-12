@@ -2,12 +2,15 @@ import past from '../data/past';
 
 import Table from 'react-bootstrap/Table';
 import Flag from 'react-world-flags';
+
+import Head from '../components/Head';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 
 export default function Past() {
   return (
     <>
+      <Head title='Past Concerts'/>
       <Navbar />
       <div className="content">
         <div className="jumbotron">
