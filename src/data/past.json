@@ -5,7 +5,7 @@
     "organiser": "VOCA-UK TEAM",
     "location": "Online (YouTube)",
     "country": "gb",
-    "link": ""
+    "link": "https://www.youtube.com/watch?v=4PNWSu-oOkw"
   },
   {
     "name": "VocaLive 2022",
@@ -38,6 +38,14 @@
     "location": "Kami-Con (Birmingham, AL)",
     "country": "us",
     "link": "https://www.youtube.com/watch?v=tHIT_w_EDoY"
+  },
+  {
+    "name": "VOCAMERICA 2021 ONLINE",
+    "time": "October 10, 2021",
+    "organiser": "Empath-P (AkiGlancy), VOCAMERICA Contributors",
+    "location": "Online (VRChat)",
+    "country": "us",
+    "link": ""
   },
   {
     "name": "VOCAFEST UK & IRE 1st Anniversary Online Event",
