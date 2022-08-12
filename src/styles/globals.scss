@@ -1,0 +1,28 @@
+td img {
+    width: 64px;
+}
+
+.jumbotron {
+    margin-top: 2rem;
+    padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: #8cd7ff;
+    border-radius: .3rem;
+
+    h1, p {
+        padding-left: 20%;
+    }
+}
+
+.navbar {
+    background-color: #8cd7ff !important;
+}
+
+.content {
+    width: 75%;
+    margin: 0 auto;
+}
+
+body {
+    background-color: #f5f6fa;
+}
