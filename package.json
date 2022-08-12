@@ -1,4 +1,13 @@
 {
+    "name": "vocaloidconcertdb",
+    "private": true,
+    "author": "David Ralph",
+    "description": "",
+    "repository": {
+      "url": "github:davidcralph/VocaloidConcertDB"
+    },
+    "homepage": "",
+    "version": "1.0.0",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
@@ -12,7 +21,12 @@
         "react": "^18.2.0",
         "react-bootstrap": "^2.5.0",
         "react-dom": "^18.2.0",
-        "react-world-flags": "^1.5.1",
+        "react-world-flags": "^1.5.1"
+    },
+    "devDependencies": {
+        "eslint": "^8.21.0",
+        "eslint-config-next": "^12.2.5",
+        "prettier": "^2.7.1",
         "sass": "^1.54.4"
     }
 }

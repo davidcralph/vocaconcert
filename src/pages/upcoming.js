@@ -1,18 +1,18 @@
-import past from '../data/past';
+import upcoming from '../data/upcoming';
 
 import Table from 'react-bootstrap/Table';
 import Flag from 'react-world-flags';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 
-export default function Past() {
+export default function Upcoming() {
   return (
     <>
       <Navbar />
       <div className="content">
         <div className="jumbotron">
-          <h1>Past Concerts</h1>
-          <p>A list of past VOCALOID concerts sorted by whichever finished first</p>
+          <h1>Upcoming Concerts</h1>
+          <p>A list of upcoming VOCALOID fan concerts sorted by whichever is starting first</p>
         </div>
         <Table striped bordered hover responsive size="sm">
           <thead>
@@ -24,7 +24,7 @@ export default function Past() {
             </tr>
           </thead>
           <tbody>
-            {past.map((item, index) => (
+            {upcoming.map((item, index) => (
               <tr key={index}>
                 <td>
                   <Flag code={item.country} /> {item.name}
