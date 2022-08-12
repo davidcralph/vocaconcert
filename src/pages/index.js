@@ -1,4 +1,5 @@
 import upcoming from '../data/upcoming';
+import past from '../data/past';
 
 import Table from 'react-bootstrap/Table';
 import Flag from 'react-world-flags';
@@ -35,7 +36,7 @@ export default function Home() {
                     </tr>
                   </thead>
                   <tbody>
-                    {upcoming.map((item, index) => (
+                    {upcoming.slice(0, 2).map((item, index) => (
                       <tr key={index}>
                         <td>
                           <Flag code={item.country} /> {item.name}
@@ -62,7 +63,7 @@ export default function Home() {
                     </tr>
                   </thead>
                   <tbody>
-                    {upcoming.map((item, index) => (
+                    {past.slice(0, 2).map((item, index) => (
                       <tr key={index}>
                         <td>
                           <Flag code={item.country} /> {item.name}
