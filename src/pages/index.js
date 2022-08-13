@@ -25,7 +25,7 @@ export default function Home() {
           <div className="row">
             <div className="col-sm">
               <div className="startingSoon">
-                <h3>Starting soon</h3>
+                <h3>Starting Soon</h3>
                 <Table striped bordered hover responsive size="sm">
                   <thead>
                     <tr>
