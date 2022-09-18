@@ -1,5 +1,13 @@
 [
   {
+    "name": "SynthV Showtime",
+    "time": "August 27, 2022 @ 02:00 BST",
+    "organiser": "VCollabs",
+    "location": "Online (YouTube)",
+    "country": "us",
+    "link": "https://www.youtube.com/watch?v=E95N-9_WHqI"
+  },
+  {
     "name": "VOCA-UK MINI: LINK START",
     "time": "August 20, 2022 @ 14:15 BST",
     "organiser": "VOCA-UK",
@@ -40,6 +48,14 @@
     "link": "https://www.youtube.com/watch?v=y97eXYxeiK4"
   },
   {
+    "name": "MMD Hologram Concert Indy Pop Con 2022",
+    "time": "June 6, 2022",
+    "organiser": "Skylar Ninja",
+    "location": "Indy Pop Con 2021 (Indiana Convention Center)",
+    "country": "us",
+    "link": "https://www.youtube.com/watch?v=lok3Vyz9Htc"
+  },
+  {
     "name": "Cosmic Fiesta",
     "time": "May 7, 2022",
     "organiser": "VOCAFEST UK & IRE (Telekinetic)",
@@ -70,6 +86,14 @@
     "location": "Online (YouTube)",
     "country": "gb",
     "link": "https://www.youtube.com/watch?v=danvvFJXilA"
+  },
+  {
+    "name": "MMD Hologram Concert Indy Pop Con 2021",
+    "time": "July 12, 2021",
+    "organiser": "Skylar Ninja",
+    "location": "Indy Pop Con 2021 (Indiana Convention Center)",
+    "country": "us",
+    "link": "https://www.youtube.com/watch?v=0cGIYhd62H0"
   },
   {
     "name": "Virtual Synthesiser Festival 2.0",
