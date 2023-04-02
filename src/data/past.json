@@ -8,6 +8,14 @@
     "link": ""
   },
   {
+    "name": "MIKUEC 2022",
+    "tiime": "December 17-18, 2022",
+    "organiser": "Virtual Live Study Group",
+    "location": "University of Electro-Communications",
+    "country": "jp",
+    "link": "https://www.youtube.com/watch?v=cf0rYaK371E"
+  },
+  {
     "name": "Vocaloid Medley",
     "time": "November 14, 2022 @ 17:00 BST",
     "organiser": "Yoru Entertainment Group",
@@ -88,7 +96,7 @@
     "link": "https://www.youtube.com/watch?v=lok3Vyz9Htc"
   },
   {
-    "name": "Cosmic Fiesta",
+    "name": "VOCAFEST Cosmic Fiesta",
     "time": "May 7, 2022",
     "organiser": "VOCAFEST UK & IRE (Telekinetic)",
     "location": "Online (YouTube)",
@@ -102,6 +110,14 @@
     "location": "Kami-Con (Birmingham, AL)",
     "country": "us",
     "link": "https://www.youtube.com/watch?v=tHIT_w_EDoY"
+  },
+  {
+    "name": "MIKUEC 2021",
+    "tiime": "December 11-12, 2021",
+    "organiser": "Virtual Live Study Group",
+    "location": "University of Electro-Communications",
+    "country": "jp",
+    "link": "https://www.youtube.com/watch?v=8AtFV2flqkE"
   },
   {
     "name": "VOCAMERICA 2021 ONLINE",
@@ -144,6 +160,14 @@
     "link": "https://www.youtube.com/watch?v=sx0zpxi3e0Y"
   },
   {
+    "name": "MIKUEC 2020",
+    "tiime": "November, 2020",
+    "organiser": "Virtual Live Study Group",
+    "location": "Online",
+    "country": "jp",
+    "link": "https://www.youtube.com/watch?v=pdokg5Qtm_4"
+  },
+  {
     "name": "VOCAFEST UK",
     "time": "October 3, 2020",
     "organiser": "VOCAFEST UK & IRE (Telekinetic)",
@@ -158,6 +182,14 @@
     "location": "Kami-Con (Birmingham, AL)",
     "country": "us",
     "link": "https://www.youtube.com/watch?v=Izz3DD5X1cg"
+  },
+  {
+    "name": "MIKUEC 2019",
+    "tiime": "November 17, 2019",
+    "organiser": "Virtual Live Study Group",
+    "location": "University of Electro-Communications",
+    "country": "jp",
+    "link": "https://www.youtube.com/watch?v=TZH5sDQz_tg"
   },
   {
     "name": "Vocanight Fever 2019",
@@ -217,7 +249,7 @@
   },
   {
     "name": "Vocaleek Anniversary Concert",
-    "time": "Feburary 8, 2015",
+    "time": "Feburary 8, 2018",
     "organiser": "Vocaleek",
     "location": "Dream Touch (Hanoi, Vietnam)",
     "country": "vn",
