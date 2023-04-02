@@ -8,6 +8,14 @@
     "link": ""
   },
   {
+    "name": "Winter Wonderland 2022",
+    "time": "December 20, 2022",
+    "organiser": "VCollabs",
+    "location": "Online (YouTube)",
+    "country": "us",
+    "link": "https://www.youtube.com/watch?v=9mYmOOVZyvI"
+  },
+  {
     "name": "MIKUEC 2022",
     "tiime": "December 17-18, 2022",
     "organiser": "Virtual Live Study Group",
@@ -269,6 +277,14 @@
     "organiser": "Empath-P (AkiGlancy), VOCAMERICA Contributors",
     "location": "ETSU-Con (Johnson City, TN), Kigacon (Newport News, VA), Tora-con (Rochester, NY), CPAC (Hoboken, NJ), AniMinneapolis (Minneapolis, MN), Banzaicon (Columbia, SC), Anime Iwai (Deerfield Beach, FL), Yama-Con (Pigeon Forge, TN)",
     "country": "us",
+    "link": ""
+  },
+  {
+    "name": "MIKUEC 2017",
+    "tiime": "November, 2017",
+    "organiser": "Virtual Live Study Group",
+    "location": "University of Electro-Communications",
+    "country": "jp",
     "link": ""
   },
   {
